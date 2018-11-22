@@ -1,4 +1,4 @@
-# smap2shp
+# s1l2-to-shp
 
 This is a S1 L2 data to shapefile conversion tool. See
 https://sentinel.esa.int/documents/247904/349449/Sentinel-1_Product_Specification
